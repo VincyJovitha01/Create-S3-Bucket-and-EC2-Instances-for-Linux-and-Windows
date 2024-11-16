@@ -38,15 +38,15 @@ Connect to the Windows instance using RDP.</br>
 
 
 ## OUTPUT:
-### REG NUMBER:212223230242
-### NAME:VINCY JOVITHA V
-## 1.) S3-BUCKET CREATION:
+#### REG NUMBER:212223230242
+#### NAME:VINCY JOVITHA V
+### 1.) S3-BUCKET CREATION:
 ![Screenshot 2024-11-17 000701](https://github.com/user-attachments/assets/bea06820-3b72-453c-becf-68c1e1b0f990)
 ![Screenshot 2024-11-17 000717](https://github.com/user-attachments/assets/d8e0dcb9-eff3-493e-b335-ed0dcc387e87)
 ![Screenshot 2024-08-30 113551](https://github.com/user-attachments/assets/78882c76-0b2d-49ec-b5cb-bcd4e84164bf)
 ![Screenshot 2024-08-30 113623](https://github.com/user-attachments/assets/e06023dd-b7cf-4ea5-856b-a37f6293b450)
 
-## 2.) EC2-INSTANCE CREATION:
+### 2.) EC2-INSTANCE CREATION:
 ![image](https://github.com/user-attachments/assets/7edda2c6-42e3-4dcf-8184-902616654232)
 ![Screenshot 2024-11-17 001834](https://github.com/user-attachments/assets/ba984ba6-7350-4d57-b8a9-ebe2bc6c8962)
 ![Screenshot 2024-09-04 215656](https://github.com/user-attachments/assets/d33b6f7b-85f3-4a14-a468-42fd771b6b37)
