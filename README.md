@@ -2,7 +2,8 @@
 ## AIM:
    To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT:
-   Explain about the Experiment.
+This experiment demonstrates the process of setting up cloud infrastructure on AWS by creating an S3 bucket for storage and EC2 instances to host Linux and Windows environments. The goal is to provide an overview of how to configure and interact with these resources effectively, along with commands and screenshots to document the process.
+
 
 ## ALGORITHM
 Step 1: Log in to AWS Console.
